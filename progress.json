@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T17:35:26.146Z",
+  "generated_at": "2026-10-22T17:35:29.186Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,71 @@
       "last_pushed_at": "2026-03-12T07:12:37.467Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-03-13T06:11:28.677Z",
+      "last_pushed_at": "2026-03-13T06:11:28.677Z",
+      "language": "python",
+      "lines": 40
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2026-03-13T06:24:33.577Z",
+      "last_pushed_at": "2026-03-13T06:24:33.577Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:56": {
+      "kind": "problem",
+      "id": "56",
+      "title": "KL Divergence Between Two Normal Distributions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/56",
+      "path": "problems/0056-kl-divergence-between-two-normal-distributions",
+      "first_solved_at": "2026-03-13T06:46:00.917Z",
+      "last_pushed_at": "2026-03-13T06:46:00.917Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:19": {
+      "kind": "problem",
+      "id": "19",
+      "title": "Principal Component Analysis (PCA) Implementation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/19",
+      "path": "problems/0019-principal-component-analysis-pca-implementation",
+      "first_solved_at": "2026-03-13T07:16:17.549Z",
+      "last_pushed_at": "2026-03-13T07:16:17.549Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2026-03-13T07:26:22.055Z",
+      "last_pushed_at": "2026-03-13T07:26:22.055Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
